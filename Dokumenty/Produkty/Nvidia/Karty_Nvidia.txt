@@ -1,0 +1,16 @@
+Producent	VRam	Cena
+Nvidia		24GB	5999
+Nvidia		12GB	3250
+Nvidia		16GB	4399
+Nvidia		16GB	4799
+Nvidia		20GB	5699
+Nvidia		8GB	2150
+Nvidia		20GB	5750
+Nvidia		24GB	5999
+Nvidia		12GB	3450
+Nvidia		12GB	3550
+Nvidia		16GB	4450
+Nvidia		8GB	1799
+Nvidia		20GB	5599
+Nvidia		8GB	1899
+Nvidia		24GB	5999
